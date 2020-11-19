@@ -1,3 +1,4 @@
+deploymentBaseName: nps/testproject
 image: nathanshaw/test-project:0.0.1-SNAPSHOT
 dbms: mysql
 healthCheckPath: "/management/health"
